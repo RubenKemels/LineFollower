@@ -6,7 +6,7 @@ void setup() {
   
   pinMode(Drukknop, INPUT_PULLUP);
   pinMode(Led, OUTPUT);
-  attachInterrupt(digitalPinToInterrupt(Drukknop), aan, CHANGE);
+  attachInterrupt(digitalPinToInterrupt(Drukknop), aan, RISING);
 }
 void loop() {
    digitalWrite(Led, toestand_Led);
