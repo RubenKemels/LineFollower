@@ -23,7 +23,7 @@ sensors: QTR-8A breakout board
 <br />
 batteries: 2 x 18650 Li-ion
 <br />
-wireless communication: 50:1 micro metal gearbox HP 6V - pololu
+wireless communication: HC05
 <br />
 distance sensor - motors: /
 <br />
