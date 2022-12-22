@@ -3,7 +3,11 @@
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 <br />
 <br />
-[picture]
+[
+
+https://user-images.githubusercontent.com/114938034/209119938-3c900d02-9720-4919-8c4c-f58573b9cc2e.mp4
+
+]
 <br />
 <br />
   
@@ -11,19 +15,19 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 <br />
 microcontroller:
 <br />
-motors: 
+motors: 50:1 micro metal gearbox HP 6V - pololu
 <br />
 h-bridge:
 <br />
-sensors:
+sensors: QTR-8A breakout board
 <br />
-batteries:
+batteries: 2 x 18650 Li-ion
 <br />
-wireless communication:
+wireless communication: 50:1 micro metal gearbox HP 6V - pololu
 <br />
-distance sensor - motors:
+distance sensor - motors: 
 <br />
-weight:
-<br />
+weight: 
+<br /> 
 speed: 
 <br />
