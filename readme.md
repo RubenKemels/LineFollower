@@ -25,9 +25,9 @@ batteries: 2 x 18650 Li-ion
 <br />
 wireless communication: 50:1 micro metal gearbox HP 6V - pololu
 <br />
-distance sensor - motors: 
+distance sensor - motors: /
 <br />
-weight: 
+weight: /
 <br /> 
-speed: 
+speed: 0,343m/s
 <br />
