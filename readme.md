@@ -13,11 +13,11 @@ https://user-images.githubusercontent.com/114938034/209119938-3c900d02-9720-4919
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: Atmega (Arduino Leonardo)
 <br />
 motors: 50:1 micro metal gearbox HP 6V - pololu
 <br />
-h-bridge:
+h-bridge: DRV-8833
 <br />
 sensors: QTR-8A breakout board
 <br />
